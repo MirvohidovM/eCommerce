@@ -1,0 +1,13 @@
+LICENSE.txt
+READ-ME.txt
+db.sqlite3
+users/migrations/
+users/__pycache__/
+products/migrations/
+products/__pycache__/
+social_auth/migrations/
+social_auth/__pycache__/
+orders/migrations/
+orders/__pycache__/
+carts/migrations/
+carts/__pycache__/
